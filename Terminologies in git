@@ -1,1 +1,5 @@
-<mark> hi</mark>
+*repository* 
+It acts like a project folder
+Contains all project related codes and files
+It also has the history of changes made by all
+Every project has distinct repositories , we can create when we need a new project.
