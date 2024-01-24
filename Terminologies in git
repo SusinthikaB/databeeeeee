@@ -3,3 +3,6 @@ It acts like a project folder
 Contains all project related codes and files
 It also has the history of changes made by all
 Every project has distinct repositories , we can create when we need a new project.
+*Main branch*
+It is one of the branch in the repository but all works will be available there
+once the changes are made those details will be pushed to the main branch from other branch
