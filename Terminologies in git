@@ -6,3 +6,9 @@ Every project has distinct repositories , we can create when we need a new proje
 *Main branch*
 It is one of the branch in the repository but all works will be available there
 once the changes are made those details will be pushed to the main branch from other branch
+*Branch*
+It is used to clone the works from main branch and to make some changes over there
+we can create our own branch and make our own changes over there,once changes are done tey can be pushed to the main branch
+*pull request*
+once we do some changes in the code cloned from main we should raise pull request for that 
+once all accept and approve our changes we should push that to the main branch
