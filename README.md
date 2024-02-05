@@ -19,4 +19,31 @@ It is called version because it helps to keep track and control the previous wor
 whenever changes need to be done clone your file/code from main to your own branch and then complete it
 Once the changes are completed and checked then push it to the main/master
 # Terminologies of GIT
-
+# repository
+It acts like a project folder
+Contains all project related codes and files
+It also has the history of changes made by all
+Every project has distinct repositories , we can create when we need a new project.
+# Main branch
+It is one of the branch in the repository but all works will be available there
+once the changes are made those details will be pushed to the main branch from other branch
+# Branch
+It is used to clone the works from main branch and to make some changes over there
+we can create our own branch and make our own changes over there,once changes are done tey can be pushed to the main branch
+# pull request
+once we do some changes in the code cloned from main we should raise pull request for that 
+once all accept and approve our changes we should push that to the main branch
+# push
+it is used to push the commits from the local to remote repository
+# commit changes
+Is adding our changes to the file or keeping track of it
+Those are the changes we make to our codes or source files
+// "commit changes" refers to the process of saving your changes to a Git repository.
+Git is a version control system that allows multiple contributors to work on a project simultaneously. 
+When you make changes to your project, you need to commit those changes to the Git repository
+to track the modifications and make them part of the project's history.//
+# local repository
+it is the place where we do our individual development changes we need to make and everthing
+# Remote repository
+it is the place where all works on collaboration and a shared space of work
+once we do changes in local repository we can commit those changes and push it it remote repository
