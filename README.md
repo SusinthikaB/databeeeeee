@@ -1,4 +1,4 @@
-# cloud computing overview - 24 jan
+# cloud computing overview - 22 jan
 It is providing computing services like servers,storage,databases,networking,software,analytics,intellegence over the internet.
 # AWS(Amazon web services)
 They are one of the top service providers,services they provide are:
@@ -12,4 +12,11 @@ They are one of the top service providers,services they provide are:
 4.Cloudtrail - is used to continously monitor the activity of our AWS account, it is tool for security for making aws account an secured one
 5.Cloud Watch - it is a monitoring and managing services that helps us to gain visibility to our AWS account and troubleshoot issues
 6.Lambda - serverless network runs for only 15 minutes,once time completed the particular instance will be terminated
+# GIT overview -20 jan
+Git stands for Global information tracking
+GIT is a website/cloud based services that is used by developers to manage and store their works and resources.
+It is called version because it helps to keep track and control the previous works
+whenever changes need to be done clone your file/code from main to your own branch and then complete it
+Once the changes are completed and checked then push it to the main/master
+# Terminologies of GIT
 
