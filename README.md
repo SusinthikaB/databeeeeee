@@ -18,7 +18,7 @@ GIT is a website/cloud based services that is used by developers to manage and s
 It is called version because it helps to keep track and control the previous works
 whenever changes need to be done clone your file/code from main to your own branch and then complete it
 Once the changes are completed and checked then push it to the main/master
-# Terminologies of GIT
+# Terminologies of GIT 18 jan
 # repository
 It acts like a project folder
 Contains all project related codes and files
