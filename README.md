@@ -47,7 +47,7 @@ to track the modifications and make them part of the project's history.
 # Remote repository
 - It is the place where all works on collaboration and a shared space of work
 - once we do changes in local repository we can commit those changes and push it it remote repository
- # VPC overview
+ # VPC overview - 29 jan 
  - VPC stands for virtual private cloud
  - Create a name for VPC and create subnets
  - subnets are the ip we are creating for our instances in vpc
@@ -59,7 +59,8 @@ to track the modifications and make them part of the project's history.
  - internet gateway -> is the way to connect to the instances inside VPC
  - NAT gateway -> allows private subnets to access internet when they are private
  - Overall it is used to deploy our resources and manages it effectively and securely
-# infrastructure Overview
+# overview of AWS services in console - jan 30
+# infrastructure Overview - feb 5
 - servers -> It is a place to store our data and retrive whenever needed
 - S3 -> These are the storage service that has the storage buckets where data can be stored
 - Lambda overview -> These are the serverless one in which AWS takes care of its infrasturucture
