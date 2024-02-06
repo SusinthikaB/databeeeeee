@@ -60,6 +60,11 @@ to track the modifications and make them part of the project's history.
  - NAT gateway -> allows private subnets to access internet when they are private
  - Overall it is used to deploy our resources and manages it effectively and securely
 # Overview of AWS services in console - jan 30
+# Terraform
+- It is an "infrastructure as a code" (IAC) tool
+- It is used to deploy create and manage our AWS resources through an automation approach using certain syntax
+- User can give the state of their requirements for the infrastructure through code rather than specifying through steps
+- Then terraform will automatically create an infrasturcture with all the specifications.
 # Infrastructure Overview - feb 5
 - servers -> It is a place to store our data and retrive whenever needed
 - S3 -> These are the storage service that has the storage buckets where data can be stored
