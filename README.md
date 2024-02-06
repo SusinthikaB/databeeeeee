@@ -1,4 +1,4 @@
-# cloud computing overview - 22 jan
+# Cloud computing overview - 22 jan
 It is providing computing services like servers,storage,databases,networking,software,analytics,intellegence over the internet.
 # AWS(Amazon web services)
 They are one of the top service providers,services they provide are:
@@ -19,7 +19,7 @@ They are one of the top service providers,services they provide are:
 - whenever changes need to be done clone your file/code from main to your own branch and then complete it
 - Once the changes are completed and checked then push it to the main/master
 # Terminologies of GIT 18 jan
-# repository
+# Repository
 - It acts like a project folder
 - Contains all project related codes and files
 - It also has the history of changes made by all
@@ -30,12 +30,12 @@ They are one of the top service providers,services they provide are:
 # Branch
 - It is used to clone the works from main branch and to make some changes over there
 - we can create our own branch and make our own changes over there,once changes are done tey can be pushed to the main branch
-# pull request
+# Pull request
 - once we do some changes in the code cloned from main we should raise pull request for that 
 - once all accept and approve our changes we should push that to the main branch
-# push
+# Push
 - It is used to push the commits from the local to remote repository
-# commit changes
+# Commit changes
 - Is adding our changes to the file or keeping track of it
 - Those are the changes we make to our codes or source files
 - "commit changes" refers to the process of saving your changes to a Git repository.
@@ -59,8 +59,8 @@ to track the modifications and make them part of the project's history.
  - internet gateway -> is the way to connect to the instances inside VPC
  - NAT gateway -> allows private subnets to access internet when they are private
  - Overall it is used to deploy our resources and manages it effectively and securely
-# overview of AWS services in console - jan 30
-# infrastructure Overview - feb 5
+# Overview of AWS services in console - jan 30
+# Infrastructure Overview - feb 5
 - servers -> It is a place to store our data and retrive whenever needed
 - S3 -> These are the storage service that has the storage buckets where data can be stored
 - Lambda overview -> These are the serverless one in which AWS takes care of its infrasturucture
