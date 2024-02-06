@@ -50,10 +50,15 @@ to track the modifications and make them part of the project's history.
  # VPC overview
  - VPC stands for virtual private cloud
  - Create a name for VPC and create subnets
- - subnets are the ip we are creating
+ - subnets are the ip we are creating for our instances in vpc
  - two subnets will be created
         - public subnet
         - private subnet
+ - security groups will be created like for both public and private
+ - NACL -> network accesss control list which controls the inbound and outbound traffic for accessing subnets
+ - internet gateway -> is the way to connect to the instances inside VPC
+ - NAT gateway -> allows private subnets to access internet when they are private
+ - Overall it is used to deploy our resources and manages it effectively and securely
 # infrastructure Overview
 - servers -> It is a place to store our data and retrive whenever needed
 - S3 -> These are the storage service that has the storage buckets where data can be stored
