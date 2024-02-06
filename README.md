@@ -47,6 +47,13 @@ to track the modifications and make them part of the project's history.
 # Remote repository
 - It is the place where all works on collaboration and a shared space of work
 - once we do changes in local repository we can commit those changes and push it it remote repository
+ # VPC overview
+ - VPC stands for virtual private cloud
+ - Create a name for VPC and create subnets
+ - subnets are the ip we are creating
+ - two subnets will be created
+        - public subnet
+        - private subnet
 # infrastructure Overview
 - servers -> It is a place to store our data and retrive whenever needed
 - S3 -> These are the storage service that has the storage buckets where data can be stored
