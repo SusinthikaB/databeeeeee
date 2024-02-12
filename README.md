@@ -60,7 +60,7 @@ to track the modifications and make them part of the project's history.
  - NAT gateway -> allows private subnets to access internet when they are private
  - Overall it is used to deploy our resources and manages it effectively and securely
 # Overview of AWS services in console - jan 30
-# Terraform
+# Terraform basic
 - It is an "infrastructure as a code" (IAC) tool
 - It is used to deploy create and manage our AWS resources through an automation approach using certain syntax
 - User can give the state of their requirements for the infrastructure through code rather than specifying through steps
@@ -70,3 +70,16 @@ to track the modifications and make them part of the project's history.
 - S3 -> These are the storage service that has the storage buckets where data can be stored
 - Lambda overview -> These are the serverless one in which AWS takes care of its infrasturucture
 - No need to provision or manage servers,they autoamtically update and runs once the code is uploaded.
+# Terraform overview - Feb 8
+- Traditional approach in infrastructure
+- advantage of IAC method and how
+- Terraform is a tool for infrasturcture as a code(IAC)
+- Developed by Harshicrop
+- They provide their own syntax in which we could code with our specifications
+- It is supported in all cloud providers
+- just to specify which provider we use is enough to modify the code accordingly
+# Environments and its types - Feb 9
+- Devlopment -> where the developer develops the code
+- Quality analysis -> where the testing of the developed modules are done by QA teams
+- end user testing -> The product owner test the application and checks if it satisfies the needs
+- production -> Once after approved by all it comes to the production environment to the user or the client
