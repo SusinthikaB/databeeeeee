@@ -83,3 +83,5 @@ to track the modifications and make them part of the project's history.
 - Quality analysis -> where the testing of the developed modules are done by QA teams
 - end user testing -> The product owner test the application and checks if it satisfies the needs
 - production -> Once after approved by all it comes to the production environment to the user or the client
+# CI/CD Overview
+
