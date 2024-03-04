@@ -84,4 +84,32 @@ to track the modifications and make them part of the project's history.
 - end user testing -> The product owner test the application and checks if it satisfies the needs
 - production -> Once after approved by all it comes to the production environment to the user or the client
 # CI/CD Overview
+- Continous integration and continous development
+- CI -> the developers simultaneously works on the code or source
+- update or modify something on the code
+- CD -> Continous development pushing the changes into production environment simultaneously
+- both integration and development occurs simultaneuosly
+# KT from Data Fabric team
+# Python
+- List
+- tuple
+- dictionary
+- map
+- lambda basics
+- set
+- list comprehension
+- Exception handling
+- OOPS concept,super class , init class , object ,attributes
+# Benthos
+- It is a tool used for transfering data in pipeline
+- It uses a language called Golang
+- it has its own syntax
+- from obtaining data processing it transfering and pushing it into an right place it takes care of it
+# Docker
+- Docker is an open source tool used for container creation
+- Containers -> It is nothing but entire application is bulit into an single pack ie), every package and libraries and functions needed by the application to run is there
+- they share the same OS in the server
+- they are faster and obtain less memory space than the Virtual Machines
+- Using Docker we can create our containers
+  
 
